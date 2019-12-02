@@ -1,0 +1,6 @@
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\bin\Debug\00173313_Ordenacao.exe.config
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\bin\Debug\00173313_Ordenacao.exe
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\bin\Debug\00173313_Ordenacao.pdb
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\obj\Debug\00173313_Ordenacao.csprojResolveAssemblyReference.cache
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\obj\Debug\00173313_Ordenacao.exe
+c:\users\lab02\documents\visual studio 2013\Projects\00173313_Ordenacao\00173313_Ordenacao\obj\Debug\00173313_Ordenacao.pdb
